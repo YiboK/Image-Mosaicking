@@ -2,6 +2,8 @@
 
 Implementation of image mosaicking
 
+Use the function in runHw3.m to run the program
+
 # Demostration
 
 The program receives photos taken from different angles of the same scene.
